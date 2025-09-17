@@ -80,7 +80,3 @@ The mcPHASES dataset enables research across multiple domains:
 If you use the mcPHASES dataset in your research, please cite the original dataset publication available on PhysioNet. 
 
 **Lin, B., Li, J. Y., Kalani, K., Truong, K., & Mariakakis, A. (2025). mcPHASES: A Dataset of Physiological, Hormonal, and Self-reported Events and Symptoms for Menstrual Health Tracking with Wearables (version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/zx6a-2c81**
-
-## About
-
-These example scripts demonstrate fundamental approaches to working with the mcPHASES dataset, including data loading, cycle identification, and basic visualization of hormone-wearable data relationships. Researchers can build upon these examples to develop more complex analyses suited to their specific research questions.
