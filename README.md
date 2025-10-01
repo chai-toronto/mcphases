@@ -66,3 +66,15 @@ The mcPHASES dataset enables investigations on several topics:
 If you use the mcPHASES dataset in your research, please cite the original dataset publication available on [PhysioNet](https://physionet.org/content/mcphases/1.0.0/):
 
 **Lin, B., Li, J. Y., Kalani, K., Truong, K., & Mariakakis, A. (2025). mcPHASES: A Dataset of Physiological, Hormonal, and Self-reported Events and Symptoms for Menstrual Health Tracking with Wearables (version 1.0.0). PhysioNet. RRID:SCR_007345. https://doi.org/10.13026/zx6a-2c81**
+
+## Related Work
+
+The papers below offer additional perspectives on the two studies, including participants’ experiences with data collection, how those experiences influenced their sensemaking, and analyses of the collected data. Please note that the analyses below are based on all participants’ data. However, only a subset consented to data sharing for the mcPHASES dataset, therefore, results derived from the mcPHASES dataset may differ.
+
+**Lin, G., Le, M. N., Truong, K. N., & Mariakakis, A. (2025). The Cognitive Strategies Behind Multimodal Health Sensemaking: A Menstrual Health Tracking Case Study. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 9(3), 1-27.**
+
+**Lin, G., Li, B., Li, J. Y., Zhao, C., Truong, K., & Mariakakis, A. (2024). Users' Perspectives on Multimodal Menstrual Tracking Using Consumer Health Devices. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 8(3), 1-24.**
+
+**Lin, G., Li, J. Y., Christofferson, K., Patel, S. N., Truong, K. N., & Mariakakis, A. (2024). Understanding wrist skin temperature changes to hormone variations across the menstrual cycle. npj Women's Health, 2(1), 35.**
+
+**Lin, G., Siddiqui, R., Lin, Z., Blodgett, J. M., Patel, S. N., Truong, K. N., & Mariakakis, A. (2023). Blood glucose variance measured by continuous glucose monitors across the menstrual cycle. npj Digital Medicine, 6(1), 140.**
