@@ -220,7 +220,7 @@ resting_hr = resting_hr[resting_hr['value'] > 0]
 # Median per person/day
 resting_hr = resting_hr[['id', 'day_in_study', 'value']]
 temperature = temperature[['id', 'day_in_study', 'nightly_temperature']]
-resting_hr = resting_hr.groupby(['id', 'day_in_study']).min().reset_index()
+resting_hr = resting_hr.groupby(['id', 'day_in_study']).median().reset_index()
 temperature = temperature.groupby(['id', 'day_in_study']).median().reset_index()
 
 # Merge all physiological signals with the hormone/self-report dataset
